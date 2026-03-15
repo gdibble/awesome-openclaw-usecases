@@ -11,7 +11,7 @@
 <br />
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Use Cases](https://img.shields.io/badge/usecases-36-blue?style=flat-square)
+![Use Cases](https://img.shields.io/badge/usecases-40-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/hesamsheikh/awesome-openclaw-usecases?label=Last%20Update&style=flat-square)
 [![Follow on X](https://img.shields.io/badge/Follow%20on-X-000000?style=flat-square&logo=x)](https://x.com/Hesamation)
 [![Discord](https://img.shields.io/badge/Discord-Open%20Source%20AI%20Builders-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/vtJykN3t)
@@ -33,6 +33,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Daily YouTube Digest](usecases/daily-youtube-digest.md) | Get daily summaries of new videos from your favorite channels — never miss content from creators you follow. |
 | [X Account Analysis](usecases/x-account-analysis.md) | Get a qualitative analysis of your X account.|
 | [Multi-Source Tech News Digest](usecases/multi-source-tech-news-digest.md) | Automatically aggregate and deliver quality-scored tech news from 109+ sources (RSS, Twitter/X, GitHub, web search) via natural language. |
+| [X/Twitter Automation](usecases/x-twitter-automation.md) | Post tweets, reply, like, retweet, follow, DM, search, extract data, run giveaways, and monitor accounts — all from chat via the TweetClaw plugin. |
 
 ## Creative & Building
 
@@ -75,6 +76,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Second Brain](usecases/second-brain.md) | Text anything to your bot to remember it, then search through all your memories in a custom Next.js dashboard. |
 | [Event Guest Confirmation](usecases/event-guest-confirmation.md) | Call a list of event guests one-by-one to confirm attendance, collect notes, and compile a summary — fully automated via AI voice calls. |
 | [Phone Call Notifications](usecases/phone-call-notifications.md) | Turn your agent's alerts into real phone calls — morning briefings, price drops, urgent emails — with two-way conversation. |
+| [Local CRM Framework](usecases/local-crm-framework.md) | Turn OpenClaw into a fully local CRM and sales automation platform with `npx denchclaw` — DuckDB, browser automation, multi-view UI, and natural language queries. |
 
 ## Research & Learning
 
@@ -85,6 +87,8 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Market Research & Product Factory](usecases/market-research-product-factory.md) | Mine Reddit and X for real pain points using the Last 30 Days skill, then have OpenClaw build MVPs that solve them. |
 | [Pre-Build Idea Validator](usecases/pre-build-idea-validator.md) | Automatically scan GitHub, HN, npm, PyPI, and Product Hunt before building anything new — stop if the space is crowded, proceed if it's open. |
 | [Semantic Memory Search](usecases/semantic-memory-search.md) | Add vector-powered semantic search to your OpenClaw markdown memory files with hybrid retrieval and auto-sync. |
+| [arXiv Paper Reader](usecases/arxiv-paper-reader.md) | Read and analyze arXiv papers conversationally — fetch by ID, browse sections, compare abstracts, and get AI summaries. |
+| [LaTeX Paper Writing](usecases/latex-paper-writing.md) | Write and compile LaTeX papers conversationally with instant PDF preview — no local TeX installation needed. |
 
 ## Finance & Trading
 
